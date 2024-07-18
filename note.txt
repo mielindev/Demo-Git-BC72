@@ -3,7 +3,4 @@
 
 git add -A 
 git commit -m "create home page html"
-git push -u origin [Tên nhánh hiện tại]
-
-Tạo nhánh 
-git checkout -b [Tên nhánh] 
+git push -u origin master
