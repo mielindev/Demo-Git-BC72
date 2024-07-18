@@ -15,3 +15,6 @@ git merge login
 ---Chuyển nhánh
 
 git checkout [tên nhánh] (Lần đầu: git checkout -b [tên nhánh])
+
+if xung đột code (conflict code): => xảy ra khi merge và pull => tùy trường hợp sẽ chọn option phù hợp
+    (incoming, current, keep both)
