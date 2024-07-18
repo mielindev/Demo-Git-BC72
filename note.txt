@@ -7,3 +7,7 @@ git push -u origin master
 
 ---- Xem có bao nhiêu nhánh đang có trong máy
 git branch
+
+-- merge code từ login về master (đứng tại nhánh master)
+
+git merge login
