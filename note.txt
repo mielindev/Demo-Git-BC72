@@ -3,4 +3,15 @@
 
 git add -A 
 git commit -m "create home page html"
-git push -u origin master
+git push -u origin [tên nhánh]
+
+--- Xem các nhánh đang có trong máy
+git branch
+
+--- Gom code từ login về master (đứng lại nhánh master)
+
+git merge login
+
+---Chuyển nhánh
+
+git checkout [tên nhánh] (Lần đầu: git checkout -b [tên nhánh])
