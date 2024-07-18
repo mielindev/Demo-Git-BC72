@@ -1,0 +1,6 @@
+- Đẩy source code lên git
+
+
+git add -A 
+git commit -m "create home page html"
+git push -u origin master
